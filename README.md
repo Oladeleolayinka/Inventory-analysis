@@ -4,7 +4,16 @@
 ## Project Overview
 In Nigeria's high-interest-rate environment, unmonitored stock imbalances—both slow-moving overstock and Class A stockouts—directly erode working capital and daily revenue. Using **Google Sheets** and **Maven Analytics data visualization principles**, I built an end-to-end inventory tracking and replenishment system for a **50-SKU Nigerian FMCG portfolio** (`₦4.03B` annual COGS, `₦413.4M` annual revenue) across three hubs (**Ikeja Hub, Agbara Plant, and Sagamu Depot**).
 
-![Analysis preview] 
+![Analysis preview]
+
+<img width="1920" height="1200" alt="Daily sales Tracker" src="https://github.com/user-attachments/assets/5de17857-102b-4ff6-86e7-110b376d5c67" />
+<img width="1920" height="1200" alt="Monthly Stock Report" src="https://github.com/user-attachments/assets/646c33f5-df7b-4143-8caa-ae8223391a26" />
+
+<img width="1920" height="1090" alt="Stock Status report" src="https://github.com/user-attachments/assets/51e82500-8887-4f62-8a9d-abb0dd9bad21" />
+<img width="1920" height="1012" alt="Exipry Assessment report" src="https://github.com/user-attachments/assets/31a1623e-b3cf-44c2-a167-50a5d336c4a2" />
+ <img width="1920" height="1200" alt="Inventory Master Data" src="https://github.com/user-attachments/assets/e597b78a-1dbd-4b26-8673-8c6fa0fbb02c" />
+<img width="1920" height="1094" alt="purchase ledger worksheet" src="https://github.com/user-attachments/assets/05728203-a528-488e-bdf0-075350160287" />
+
 
 ---
 
